@@ -1,4 +1,4 @@
-# eslint-config-basis
+# eslint-config-pillow
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
